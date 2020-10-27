@@ -20,7 +20,7 @@ public class Employee {
     private String email;
     private int age;
     private Gender gender;
-    private boolean isActive;
+    private boolean active;
     private Date birthDate;
 
 }
